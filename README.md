@@ -1,4 +1,4 @@
-# HDP
+# Hardware Design
 
 ## Yosys
 
